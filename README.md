@@ -23,4 +23,45 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫]([https://github.com/](https://github.com/ChichiTung/HW_LineBot))
+
+## 使用說明
+LineBot-ID : @932antlj
+![image](https://user-images.githubusercontent.com/65598956/205702197-67bcbf80-2977-4ec5-ab2c-ae7be3564435.png)
+
+
+### 連結的公開資料庫 :
+
+(https://movies.yahoo.com.tw/movie_intheaters.html)
+(https://movies.yahoo.com.tw/movie_thisweek.html)
+(https://tw.portal-pokemon.com/play/pokedex](https://www.imdb.com/chart/top?sort=ir)
+
+### 操作方式 :
+
+支援圖文選單，可由點選圖文選單進入如下功能，或是藉由直接輸入各項功能之文字，進入功能項：
+
+(1)找找電影院：
+  會跳出兩項建議選項(Quick Reply)：
+  a.發送使用者之位置訊息，查找離其最近的電影院(目前只支援位置訊息發送，最近之電影院查找尚未實裝)
+  b.查詢電影院票價
+  
+(2)經典推薦
+  隨機推薦使用者一部 IMDb 250部評分最高的電影，可直接進入IMDb影評頁，或是進入線上資源觀看影片
+  
+(3)本週新片
+  發送 10 部本週上映的電影，使用者可藉由：
+  a.點選片名，進入預告片播放頁
+  b.點選短簡介，觀看完整介紹
+  c.點選來點影評按鈕，觀看該部電影的相關介紹或心得
+  
+(4)熱映中
+  發送 10 部目前熱播電影，使用者可藉由：
+  a.點選片名，進入預告片播放頁
+  b.點選短簡介，觀看完整介紹
+  c.點選來點影評按鈕，觀看該部電影的相關介紹或心得
+  d.點選去查時刻，看電影在全台影城的播放時段
+  
+ (5)熱映中
+  推送 Netfix 目前台灣的熱播電影
+ 
+
